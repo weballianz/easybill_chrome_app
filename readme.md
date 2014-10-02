@@ -1,5 +1,3 @@
-- Screenshots (1280 x 800 oder 640 x 400)
 - Werbe Kachel
-    - Kleine Kacheln - 440 x 280:
     - Große Kacheln - 920 x 680: (optional)
     - Laufschrift - 1400 x 560: (optional)

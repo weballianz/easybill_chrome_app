@@ -1,7 +1,7 @@
 {
     "name": "easybill - Rechnung online schreiben",
     "short_name": "easybill",
-    "description": "Mit der easybill Online Rechnungssoftware können Sie online Ihre Rechnung schreiben und unkompliziert Angebote und Aufträge an Ihre Kunden versenden.",
+    "description": "Mit easybill können Sie online Ihre Rechnung schreiben und unkompliziert Angebote und Aufträge an Ihre Kunden versenden.",
     "version": "1.0.0",
     "manifest_version": 2,
     "icons": {
@@ -9,7 +9,7 @@
     },
     "app": {
         "urls": [
-            "*://*.easybill.de"
+            "https://login.easybill.de/"
         ],
         "launch": {
             "web_url": "https://login.easybill.de/?from=ChromeWebStore"
