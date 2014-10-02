@@ -1,0 +1,19 @@
+{
+    "name": "easybill - online Rechnung schreiben",
+    "short_name": "easybill",
+    "description": "Rechnung online schreiben",
+    "version": "1.0.0",
+    "manifest_version": 2,
+    "icons": {
+        "128": "images/icon_128.png"
+    },
+    "offline_enabled": false,
+    "app": {
+        "urls": [
+            "*://*.easybill.de"
+        ],
+        "launch": {
+            "web_url": "https://login.easybill.de/login.php?from=Chrome"
+        }
+    }
+}
