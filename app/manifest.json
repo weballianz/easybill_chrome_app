@@ -2,7 +2,7 @@
     "name": "easybill - Rechnung online schreiben",
     "short_name": "easybill",
     "description": "Mit easybill können Sie online Ihre Rechnung schreiben und unkompliziert Angebote und Aufträge an Ihre Kunden versenden.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "manifest_version": 2,
     "icons": {
         "128": "images/icon_128.png"
